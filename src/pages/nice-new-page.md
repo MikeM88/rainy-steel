@@ -1,6 +1,6 @@
 ---
 title: Large Title here
-subtitle: lorem-ipsum
+subtitle: No need for speed
 image_alt: lorem-ipsum
 meta_title: lorem-ipsum
 meta_description: lorem-ipsum
