@@ -7,7 +7,7 @@ meta_description: lorem-ipsum
 canonical_url: lorem-ipsum
 no_index: false
 template: page
-image: /images/Once its gone v2 - whitepaper.jpg
+image: /images/12.jpg
 ---
 ## Lorem ipsum
 
